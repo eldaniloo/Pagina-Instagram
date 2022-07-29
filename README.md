@@ -1,2 +1,2 @@
 # Pagina-Instagram
- Página inicial do Instagram pela DIO
+ Recriando a Página inicial do Instagram com HTML e CSS, pela DIO.
